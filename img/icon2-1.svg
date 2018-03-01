@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="141px" viewBox="0 0 199 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Convocatoria-ajustes" transform="translate(-464.000000, -13995.000000)">
+            <g id="Group-23" transform="translate(464.000000, 13995.000000)">
+                <g id="Group-8">
+                    <g id="Group-Copy-23">
+                        <rect id="Rectangle-3" fill="#FFFFFF" x="0" y="1" width="199" height="140" rx="8"></rect>
+                        <path d="M8,0 L191,0 L191,0 C195.418278,-1.65085012e-14 199,3.581722 199,8 L199,19 L0,19 L0,8 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Rectangle-4" fill="#BA251C"></path>
+                        <circle id="Oval" fill="#EBEBEB" cx="12" cy="9" r="3"></circle>
+                        <circle id="Oval-Copy" fill="#EBEBEB" cx="21" cy="9" r="3"></circle>
+                        <circle id="Oval-Copy-2" fill="#EBEBEB" cx="30" cy="9" r="3"></circle>
+                        <rect id="Rectangle-6-Copy-3" fill="#F4F4F4" x="12" y="34" width="88" height="90"></rect>
+                    </g>
+                    <path d="M44,67.0003298 L44,91 L44,91 C44,93.209139 45.790861,95 48,95 C48.8260665,95 49.631873,94.7442458 50.3067415,94.2678653 L67.3064117,82.2680302 L67.3064117,82.2680302 C69.1112039,80.994052 69.5415137,78.4982156 68.2675355,76.6934234 C68.0043386,76.3205632 67.6792719,75.9954965 67.3064117,75.7322996 L50.3067415,63.7324645 L50.3067415,63.7324645 C48.5019493,62.4584863 46.0061128,62.8887961 44.7321347,64.6935883 C44.2557542,65.3684568 44,66.1742633 44,67.0003298 Z" id="Path-2-Copy-5" fill="#BA251C"></path>
+                </g>
+                <rect id="Rectangle-5" fill="#F4F4F4" x="144" y="44" width="43" height="11"></rect>
+                <g id="Group-7" transform="translate(110.000000, 36.000000)">
+                    <circle id="Oval-2" fill="#F4F4F4" cx="13" cy="13" r="13"></circle>
+                    <g id="Group-4" transform="translate(9.000000, 10.000000)" stroke="#EE4135" stroke-width="4" stroke-linecap="round">
+                        <path d="M0.132575758,4.2486631 L2.83660126,6.92087654" id="Line"></path>
+                        <path d="M3.05833333,6.86 L9.71817359,0.278510807" id="Line-9"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-5" fill="#F4F4F4" x="144" y="75" width="43" height="11"></rect>
+                <g id="Group-7" transform="translate(110.000000, 67.000000)">
+                    <circle id="Oval-2" fill="#F4F4F4" cx="13" cy="13" r="13"></circle>
+                    <g id="Group-4" transform="translate(9.000000, 10.000000)" stroke="#EE4135" stroke-width="4" stroke-linecap="round">
+                        <path d="M0.132575758,4.2486631 L2.83660126,6.92087654" id="Line"></path>
+                        <path d="M3.05833333,6.86 L9.71817359,0.278510807" id="Line-9"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-5" fill="#F4F4F4" x="144" y="105" width="43" height="11"></rect>
+                <g id="Group-7" transform="translate(110.000000, 97.000000)">
+                    <circle id="Oval-2" fill="#F4F4F4" cx="13" cy="13" r="13"></circle>
+                    <g id="Group-4" transform="translate(9.000000, 10.000000)" stroke="#EE4135" stroke-width="4" stroke-linecap="round">
+                        <path d="M0.132575758,4.2486631 L2.83660126,6.92087654" id="Line"></path>
+                        <path d="M3.05833333,6.86 L9.71817359,0.278510807" id="Line-9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="79px" viewBox="0 0 79 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 80 80 80 80 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Convocatoria-2" transform="translate(-190.000000, -3921.000000)">
+            <g id="Group-2" transform="translate(190.000000, 3921.000000)">
+                <g id="Page-1">
+                    <path d="M26.9127,19.1587302 C22.6398876,19.1587302 19.16508,22.6292659 19.16508,26.8968254 L19.16508,53.1031746 C19.16508,57.3707341 22.6398876,60.8412698 26.9127,60.8412698 L52.0873,60.8412698 C56.3601124,60.8412698 59.83492,57.3707341 59.83492,53.1031746 L59.83492,26.8968254 C59.83492,22.6292659 56.3601124,19.1587302 52.0873,19.1587302 L26.9127,19.1587302 Z M52.0873,66 L26.9127,66 C19.7926372,66 14,60.2144841 14,53.1031746 L14,26.8968254 C14,19.7855159 19.7926372,14 26.9127,14 L52.0873,14 C59.2073628,14 65,19.7855159 65,26.8968254 L65,53.1031746 C65,60.2144841 59.2073628,66 52.0873,66 Z" id="Fill-1" fill="#EC1C24"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <polygon id="Fill-3" fill="#EC1C24" mask="url(#mask-2)" points="24 9 29 9 29 0 24 0"></polygon>
+                    <polygon id="Fill-5" fill="#EC1C24" mask="url(#mask-2)" points="33 9 38 9 38 0 33 0"></polygon>
+                    <polygon id="Fill-6" fill="#EC1C24" mask="url(#mask-2)" points="41 9 46 9 46 0 41 0"></polygon>
+                    <polygon id="Fill-7" fill="#EC1C24" mask="url(#mask-2)" points="50 9 55 9 55 0 50 0"></polygon>
+                    <polygon id="Fill-8" fill="#EC1C24" mask="url(#mask-2)" points="24 79 29 79 29 70 24 70"></polygon>
+                    <polygon id="Fill-9" fill="#EC1C24" mask="url(#mask-2)" points="33 79 38 79 38 70 33 70"></polygon>
+                    <polygon id="Fill-10" fill="#EC1C24" mask="url(#mask-2)" points="41 79 46 79 46 70 41 70"></polygon>
+                    <polygon id="Fill-11" fill="#EC1C24" mask="url(#mask-2)" points="50 79 55 79 55 70 50 70"></polygon>
+                    <polygon id="Fill-12" fill="#EC1C24" mask="url(#mask-2)" points="0 55 9 55 9 50 0 50"></polygon>
+                    <polygon id="Fill-13" fill="#EC1C24" mask="url(#mask-2)" points="0 46 9 46 9 41 0 41"></polygon>
+                    <polygon id="Fill-14" fill="#EC1C24" mask="url(#mask-2)" points="0 38 9 38 9 33 0 33"></polygon>
+                    <polygon id="Fill-15" fill="#EC1C24" mask="url(#mask-2)" points="0 29 9 29 9 24 0 24"></polygon>
+                    <polygon id="Fill-16" fill="#EC1C24" mask="url(#mask-2)" points="70 55 79 55 79 50 70 50"></polygon>
+                    <polygon id="Fill-17" fill="#EC1C24" mask="url(#mask-2)" points="70 46 79 46 79 41 70 41"></polygon>
+                    <polygon id="Fill-18" fill="#EC1C24" mask="url(#mask-2)" points="70 38 79 38 79 33 70 33"></polygon>
+                    <polygon id="Fill-19" fill="#EC1C24" mask="url(#mask-2)" points="70 29 79 29 79 24 70 24"></polygon>
+                </g>
+                <path d="M46.52,43.96 C46.52,39.532 42.308,38.488 39.248,37.516 C37.592,36.976 36.296,36.22 36.296,34.744 C36.296,33.484 37.16,32.368 39.68,32.368 C41.732,32.368 42.74,33.772 42.74,35.32 L46.052,35.32 C45.98,32.332 44.144,30.244 41.516,29.56 L41.516,26.248 L38.096,26.248 L38.096,29.452 C34.856,29.992 32.876,32.116 32.876,34.744 C32.876,38.812 36.296,39.928 39.284,40.792 C41.336,41.404 43.1,42.16 43.1,43.96 C43.1,45.616 41.696,46.552 39.572,46.552 C37.196,46.552 35.792,45.364 35.792,43.348 L32.48,43.348 C32.516,47.308 35.072,49 37.844,49.432 L37.844,52.672 L41.264,52.672 L41.264,49.432 C44.36,48.964 46.52,47.164 46.52,43.96 Z" id="$" fill="#161616"></path>
+            </g>
+        </g>
+    </g>
+</svg>
